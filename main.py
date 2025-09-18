@@ -38,5 +38,9 @@ def generate_number_puzzle():
 
 
 
+def run_game():
+    generate_number_puzzle()
+
+
 if __name__ == "__main__":
     main()
