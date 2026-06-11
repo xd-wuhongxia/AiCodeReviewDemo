@@ -39,6 +39,7 @@ def generate_number_puzzle():
 
 
 def run_game():
+    # 调用生成数字解谜游戏的函数
     generate_number_puzzle()
 
 
